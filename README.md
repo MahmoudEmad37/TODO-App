@@ -1,6 +1,6 @@
 # to_do_app
 
-A new Flutter project.
+# TODO App is the flutter project to displays a list of unfinished and completed tasks each day on the calendar.
 
 ## Getting Started
 
